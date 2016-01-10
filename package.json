@@ -1,7 +1,7 @@
 {
   "name": "react-basic-boiler",
   "version": "1.0.0",
-  "description": "Very basic React boiler using ES6/ES2015, Babel, Gulp, Browserify, and Sass with Auto Prefixer",
+  "description": "Very basic React boiler using ES6/ES2015, Babel, Gulp, Browserify, and Sass with Autoprefixer",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
